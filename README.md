@@ -1,4 +1,4 @@
-# Proyecto APT — Plataforma de Publicación Asistida por IA para Cámara Gremial
+# Proyecto APT — Plataforma de Publicación Asistida por IA para Cámara Chilena de inteligencia artificial
 
 > **Estado:** Fase inicial de levantamiento de requisitos (kickoff). Este README se irá actualizando a medida que se definan más detalles con el cliente.
 
